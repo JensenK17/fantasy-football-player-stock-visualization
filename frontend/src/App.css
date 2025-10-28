@@ -1,0 +1,15 @@
+/* App.css - Main application styles */
+
+.App {
+  min-height: 100vh;
+}
+
+/* Custom utility classes */
+.dashboard-container {
+  min-height: calc(100vh - 200px);
+}
+
+.player-search-container {
+  max-height: 600px;
+}
+
